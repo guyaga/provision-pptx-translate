@@ -1,0 +1,9 @@
+{
+    "gemini_model": "gemini-3.1-pro",
+    "target_language": "Spanish",
+    "target_languages": ["Spanish", "Italian", "French"],
+    "preserve_terms": ["Provision ISR", "DDA", "NVR", "VMS", "PTZ", "LPR"],
+    "translate_speaker_notes": true,
+    "output_suffix": true,
+    "output_dir": "translated"
+}
